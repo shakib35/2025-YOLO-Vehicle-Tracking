@@ -6,8 +6,6 @@ import torch
 import time
 
 if __name__ == '__main__':
-
-
     # Comet environment variables
     os.environ["COMET_EVAL_BATCH_LOGGING_INTERVAL"] = "5"
     os.environ["COMET_EVAL_LOG_CONFUSION_MATRIX"] = "false"
