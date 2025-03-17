@@ -1,8 +1,8 @@
-path: /home/shakib/Documents/2025-YOLO-Vehicle-Tracking/UA-DETRAC-DATASET-10K.v2-2024-11-14-3-48pm.yolov11
+path: C:\Users\squddus\Documents\GitHub\2025-YOLO-Vehicle-Tracking\UA-DETRAC-DATASET-10K.v2-2024-11-14-3-48pm.yolov11
 
-train: ../train/images
-val: ../valid/images
-test: ../test/images
+train: train\images
+val: valid\images
+test: test\images
 
 nc: 4
 names: ['bus', 'car', 'truck', 'van']
