@@ -1,12 +1,12 @@
 import os
-
+from ultralytics import YOLO
 import comet_ml
 from comet_ml import start
 import torch
 import time
 
 if __name__ == '__main__':
-    from ultralytics import YOLO
+
 
     # Comet environment variables
     os.environ["COMET_EVAL_BATCH_LOGGING_INTERVAL"] = "5"
@@ -22,12 +22,12 @@ if __name__ == '__main__':
         project_name="2025 YOLOv11 Detection and Tracking",
         workspace="shakib35"
     )
-    experiment_name = "yolo11m"
+    experiment_name = "yolov8s"
     experiment.set_name(experiment_name)
 
     # Parameters
     device = "cuda"
-    model = YOLO("yolo11m.pt")
+    model = YOLO("yolov8s.pt")
 
     # Logging Parameters to Comet
     experiment.log_parameter("device", device)
@@ -51,7 +51,7 @@ if __name__ == '__main__':
     # experiment.log_metric(name="training_time", value=training_time)
 
     # Save final trained model
-    model_path = 'Car Tracking Small'
+    model_path = 'yolov8s trained'
     model.save(model_path)
     print(f"Model saved to {model_path}")
     experiment.log_model("trained_model", model_path)
