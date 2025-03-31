@@ -1,22 +1,24 @@
 import argparse
 import numpy as np
 import cv2
+from collections import defaultdict, deque
 from ultralytics import YOLO
 import supervision as sv
 
 SOURCE = np.array([[1643,801], [2326,801], [3493, 1918], [531, 1918]])
 
-TARGET_WIDTH = 25
-TARGET_HEIGHT = 250
+TARGET_WIDTH = 18.7275
+TARGET_HEIGHT = 110.56
 
 TARGET = np.array(
     [
-        [0,0],
-        [TARGET_WIDTH -1, 0],
-        [TARGET_WIDTH -1, TARGET_HEIGHT - 1],
-        [0, TARGET_WIDTH - 1]
+        [0, 0],
+        [TARGET_WIDTH - 1, 0],
+        [TARGET_WIDTH - 1, TARGET_HEIGHT - 1],
+        [0, TARGET_HEIGHT - 1]
     ]
 )
+
 
 class ViewTransformer:
     def __init__(self, source: np.ndarray, target: np.ndarray):
@@ -62,6 +64,8 @@ if __name__ == '__main__':
     polygon_zone = sv.PolygonZone(SOURCE)
     view_transformer = ViewTransformer(source=SOURCE, target=TARGET)
     
+    coordinates = defaultdict(lambda: deque(maxlen=video_info.fps))
+    
     for frame in frame_generator:
         result = model(frame)[0]
         detections = sv.Detections.from_ultralytics(result)
@@ -71,11 +75,18 @@ if __name__ == '__main__':
         points = detections.get_anchors_coordinates(anchor=sv.Position.BOTTOM_CENTER)
         points = view_transformer.transform_points(points=points).astype(int)
         
-        labels = [
-            f"x: {x}, y:{y}"
-            for [x,y]
-            in points
-        ]
+        labels = []
+        for tracker_id, [_,y] in zip(detections.tracker_id, points):
+            coordinates[tracker_id].append(y)
+            if len(coordinates[tracker_id]) < video_info.fps / 2:
+                labels.append(f"#{tracker_id}")
+            else:
+                coordinate_start = coordinates[tracker_id][-1]
+                coordinate_end = coordinates[tracker_id][0]
+                distance = abs(coordinate_start - coordinate_end)
+                time = len(coordinates[tracker_id]) / video_info.fps
+                speed = distance/time * 2.23694
+                labels.append(f'#{tracker_id} {int(speed)} mph')
         
         annotated_frame = frame.copy()
         annotated_frame = sv.draw_polygon(annotated_frame, polygon=SOURCE)
