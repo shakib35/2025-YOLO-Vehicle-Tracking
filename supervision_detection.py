@@ -49,15 +49,16 @@ if __name__ == '__main__':
     args = parse_arguments()
     
     video_info = sv.VideoInfo.from_video_path(args.source_video_path)
-    model = YOLO('/Users/shaki/Documents/GitHub/2025-YOLO-Vehicle-Tracking/Car Tracking/yolov8s/weights/best.pt')
+    model = YOLO('/Users/shaki/Documents/GitHub/2025-YOLO-Vehicle-Tracking/Car Tracking/yolov11s/weights/best.pt')
     byte_track = sv.ByteTrack(frame_rate = video_info.fps)
     model.to('mps')
     
     thickness = sv.calculate_optimal_line_thickness(resolution_wh=video_info.resolution_wh)
     text_scale = sv.calculate_optimal_text_scale(resolution_wh=video_info.resolution_wh)
     
-    bounding_box_annotator = sv.BoxAnnotator(thickness=thickness)
-    label_annotator = sv.LabelAnnotator(text_scale=text_scale, text_thickness=thickness)
+    bounding_box_annotator = sv.BoxAnnotator(thickness=thickness, color_lookup=sv.ColorLookup.TRACK)
+    label_annotator = sv.LabelAnnotator(text_scale=text_scale, text_thickness=thickness, text_position=sv.Position.BOTTOM_CENTER, color_lookup=sv.ColorLookup.TRACK)
+    #trace_annotator = sv.TraceAnnotator(thickness=thickness, trace_length=video_info.fps * 2, position=sv.Position.BOTTOM_CENTER)
     
     frame_generator = sv.get_video_frames_generator(args.source_video_path)
     
@@ -89,7 +90,9 @@ if __name__ == '__main__':
                 labels.append(f'#{tracker_id} {int(speed)} mph')
         
         annotated_frame = frame.copy()
-        annotated_frame = sv.draw_polygon(annotated_frame, polygon=SOURCE)
+        #annotated_frame = sv.draw_polygon(annotated_frame, polygon=SOURCE)
+        #annotated_frame = trace_annotator.annotate(
+            #scene=annotated_frame, detections=detections)
         annotated_frame = label_annotator.annotate(
             scene=annotated_frame, detections=detections, labels=labels) 
         annotated_frame = bounding_box_annotator.annotate(
