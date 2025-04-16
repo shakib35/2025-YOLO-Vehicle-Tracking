@@ -1,0 +1,765 @@
+0: 384x640 18 cars, 20.2ms
+Speed: 2.2ms preprocess, 20.2ms inference, 5.6ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 18 cars, 22.9ms
+Speed: 2.2ms preprocess, 22.9ms inference, 5.9ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 17 cars, 21.1ms
+Speed: 2.2ms preprocess, 21.1ms inference, 5.2ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 18 cars, 20.2ms
+Speed: 2.1ms preprocess, 20.2ms inference, 5.1ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 18 cars, 21.2ms
+Speed: 2.2ms preprocess, 21.2ms inference, 11.2ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 17 cars, 22.4ms
+Speed: 2.3ms preprocess, 22.4ms inference, 10.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 17 cars, 20.9ms
+Speed: 2.2ms preprocess, 20.9ms inference, 5.1ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 18 cars, 20.3ms
+Speed: 2.2ms preprocess, 20.3ms inference, 4.9ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 17 cars, 19.8ms
+Speed: 2.3ms preprocess, 19.8ms inference, 5.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 18 cars, 14.4ms
+Speed: 2.2ms preprocess, 14.4ms inference, 5.0ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 20 cars, 16.2ms
+Speed: 2.3ms preprocess, 16.2ms inference, 14.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 20 cars, 20.9ms
+Speed: 2.1ms preprocess, 20.9ms inference, 10.1ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 20 cars, 20.8ms
+Speed: 2.3ms preprocess, 20.8ms inference, 5.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 21 cars, 22.1ms
+Speed: 2.1ms preprocess, 22.1ms inference, 6.0ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 18 cars, 20.1ms
+Speed: 2.4ms preprocess, 20.1ms inference, 5.0ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 17 cars, 21.3ms
+Speed: 2.3ms preprocess, 21.3ms inference, 6.7ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 19 cars, 21.2ms
+Speed: 2.2ms preprocess, 21.2ms inference, 5.0ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 18 cars, 21.1ms
+Speed: 2.2ms preprocess, 21.1ms inference, 5.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 19 cars, 19.9ms
+Speed: 2.3ms preprocess, 19.9ms inference, 5.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 19 cars, 19.3ms
+Speed: 2.3ms preprocess, 19.3ms inference, 11.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 19 cars, 20.0ms
+Speed: 2.2ms preprocess, 20.0ms inference, 5.2ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 20 cars, 19.9ms
+Speed: 2.1ms preprocess, 19.9ms inference, 5.7ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 19 cars, 21.0ms
+Speed: 2.2ms preprocess, 21.0ms inference, 6.1ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 19 cars, 20.8ms
+Speed: 2.2ms preprocess, 20.8ms inference, 5.0ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 17 cars, 19.5ms
+Speed: 2.3ms preprocess, 19.5ms inference, 10.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 18 cars, 20.3ms
+Speed: 2.3ms preprocess, 20.3ms inference, 11.1ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 18 cars, 20.4ms
+Speed: 2.1ms preprocess, 20.4ms inference, 10.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 18 cars, 21.0ms
+Speed: 2.3ms preprocess, 21.0ms inference, 10.0ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 16 cars, 22.5ms
+Speed: 2.2ms preprocess, 22.5ms inference, 16.6ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 16 cars, 21.6ms
+Speed: 2.2ms preprocess, 21.6ms inference, 5.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 16 cars, 20.4ms
+Speed: 2.2ms preprocess, 20.4ms inference, 10.1ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 16 cars, 21.5ms
+Speed: 2.3ms preprocess, 21.5ms inference, 10.8ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 16 cars, 23.0ms
+Speed: 2.2ms preprocess, 23.0ms inference, 16.0ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 16 cars, 21.1ms
+Speed: 2.3ms preprocess, 21.1ms inference, 12.1ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 18 cars, 21.6ms
+Speed: 2.2ms preprocess, 21.6ms inference, 13.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 16 cars, 21.0ms
+Speed: 2.2ms preprocess, 21.0ms inference, 27.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 16 cars, 20.4ms
+Speed: 2.3ms preprocess, 20.4ms inference, 10.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 18 cars, 20.8ms
+Speed: 2.2ms preprocess, 20.8ms inference, 5.2ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 19 cars, 19.3ms
+Speed: 2.1ms preprocess, 19.3ms inference, 11.1ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 20 cars, 20.3ms
+Speed: 2.0ms preprocess, 20.3ms inference, 5.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 19 cars, 19.6ms
+Speed: 2.1ms preprocess, 19.6ms inference, 9.8ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 19 cars, 21.3ms
+Speed: 2.1ms preprocess, 21.3ms inference, 5.0ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 19 cars, 20.1ms
+Speed: 2.3ms preprocess, 20.1ms inference, 4.7ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 19 cars, 19.6ms
+Speed: 2.3ms preprocess, 19.6ms inference, 10.9ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 19 cars, 20.6ms
+Speed: 2.2ms preprocess, 20.6ms inference, 5.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 17 cars, 22.6ms
+Speed: 2.2ms preprocess, 22.6ms inference, 5.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 17 cars, 20.6ms
+Speed: 2.1ms preprocess, 20.6ms inference, 10.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 17 cars, 21.8ms
+Speed: 2.2ms preprocess, 21.8ms inference, 11.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 17 cars, 22.8ms
+Speed: 2.4ms preprocess, 22.8ms inference, 8.2ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 17 cars, 19.7ms
+Speed: 2.2ms preprocess, 19.7ms inference, 10.7ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 18 cars, 20.6ms
+Speed: 2.1ms preprocess, 20.6ms inference, 5.1ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 18 cars, 21.0ms
+Speed: 2.2ms preprocess, 21.0ms inference, 5.2ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 17 cars, 20.3ms
+Speed: 2.2ms preprocess, 20.3ms inference, 4.8ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 17 cars, 19.1ms
+Speed: 2.2ms preprocess, 19.1ms inference, 5.9ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 18 cars, 21.2ms
+Speed: 2.2ms preprocess, 21.2ms inference, 10.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 18 cars, 21.4ms
+Speed: 2.2ms preprocess, 21.4ms inference, 11.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 18 cars, 22.2ms
+Speed: 2.2ms preprocess, 22.2ms inference, 5.0ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 20 cars, 20.3ms
+Speed: 2.3ms preprocess, 20.3ms inference, 10.8ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 18 cars, 21.2ms
+Speed: 2.3ms preprocess, 21.2ms inference, 9.7ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 19 cars, 21.4ms
+Speed: 2.1ms preprocess, 21.4ms inference, 11.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 19 cars, 21.2ms
+Speed: 2.2ms preprocess, 21.2ms inference, 10.8ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 19 cars, 21.3ms
+Speed: 2.2ms preprocess, 21.3ms inference, 4.9ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 20 cars, 21.0ms
+Speed: 2.2ms preprocess, 21.0ms inference, 11.0ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 18 cars, 20.7ms
+Speed: 2.2ms preprocess, 20.7ms inference, 5.1ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 18 cars, 20.7ms
+Speed: 2.3ms preprocess, 20.7ms inference, 10.1ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 18 cars, 21.1ms
+Speed: 2.1ms preprocess, 21.1ms inference, 4.9ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 20 cars, 20.3ms
+Speed: 2.4ms preprocess, 20.3ms inference, 11.0ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 20 cars, 21.0ms
+Speed: 2.1ms preprocess, 21.0ms inference, 4.9ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 19 cars, 22.5ms
+Speed: 2.2ms preprocess, 22.5ms inference, 5.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 18 cars, 20.0ms
+Speed: 2.3ms preprocess, 20.0ms inference, 5.1ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 20 cars, 15.0ms
+Speed: 2.2ms preprocess, 15.0ms inference, 10.1ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 18 cars, 16.5ms
+Speed: 2.1ms preprocess, 16.5ms inference, 11.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 20 cars, 21.3ms
+Speed: 2.1ms preprocess, 21.3ms inference, 5.0ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 19 cars, 20.0ms
+Speed: 2.2ms preprocess, 20.0ms inference, 5.2ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 18 cars, 21.0ms
+Speed: 2.2ms preprocess, 21.0ms inference, 5.0ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 18 cars, 19.6ms
+Speed: 2.3ms preprocess, 19.6ms inference, 10.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 18 cars, 20.9ms
+Speed: 2.1ms preprocess, 20.9ms inference, 5.1ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 17 cars, 19.6ms
+Speed: 2.1ms preprocess, 19.6ms inference, 10.7ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 17 cars, 20.1ms
+Speed: 2.1ms preprocess, 20.1ms inference, 5.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 17 cars, 22.4ms
+Speed: 2.1ms preprocess, 22.4ms inference, 11.1ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 17 cars, 21.1ms
+Speed: 2.2ms preprocess, 21.1ms inference, 11.8ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 17 cars, 21.7ms
+Speed: 2.3ms preprocess, 21.7ms inference, 10.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 19 cars, 20.9ms
+Speed: 2.2ms preprocess, 20.9ms inference, 11.1ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 17 cars, 20.7ms
+Speed: 2.2ms preprocess, 20.7ms inference, 11.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 15 cars, 21.2ms
+Speed: 2.1ms preprocess, 21.2ms inference, 5.2ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 20 cars, 21.6ms
+Speed: 2.1ms preprocess, 21.6ms inference, 5.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 18 cars, 21.2ms
+Speed: 2.2ms preprocess, 21.2ms inference, 11.2ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 18 cars, 21.8ms
+Speed: 2.3ms preprocess, 21.8ms inference, 9.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 18 cars, 21.1ms
+Speed: 2.2ms preprocess, 21.1ms inference, 5.6ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 16 cars, 20.0ms
+Speed: 2.1ms preprocess, 20.0ms inference, 10.8ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 17 cars, 19.7ms
+Speed: 2.2ms preprocess, 19.7ms inference, 5.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 16 cars, 22.7ms
+Speed: 2.1ms preprocess, 22.7ms inference, 10.9ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 16 cars, 21.0ms
+Speed: 2.1ms preprocess, 21.0ms inference, 10.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 17 cars, 20.8ms
+Speed: 2.2ms preprocess, 20.8ms inference, 6.6ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 17 cars, 21.2ms
+Speed: 2.2ms preprocess, 21.2ms inference, 5.1ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 17 cars, 19.9ms
+Speed: 2.3ms preprocess, 19.9ms inference, 10.8ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 15 cars, 20.9ms
+Speed: 2.1ms preprocess, 20.9ms inference, 12.8ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 19 cars, 19.3ms
+Speed: 2.2ms preprocess, 19.3ms inference, 11.7ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 17 cars, 20.2ms
+Speed: 2.1ms preprocess, 20.2ms inference, 9.7ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 18 cars, 21.5ms
+Speed: 2.1ms preprocess, 21.5ms inference, 6.9ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 17 cars, 21.3ms
+Speed: 2.1ms preprocess, 21.3ms inference, 4.9ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 18 cars, 19.8ms
+Speed: 2.3ms preprocess, 19.8ms inference, 5.2ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 19 cars, 20.2ms
+Speed: 2.2ms preprocess, 20.2ms inference, 10.6ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 16 cars, 21.5ms
+Speed: 2.2ms preprocess, 21.5ms inference, 10.9ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 17 cars, 21.7ms
+Speed: 2.2ms preprocess, 21.7ms inference, 5.1ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 17 cars, 20.0ms
+Speed: 2.1ms preprocess, 20.0ms inference, 5.2ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 18 cars, 19.2ms
+Speed: 2.1ms preprocess, 19.2ms inference, 11.0ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 19 cars, 19.9ms
+Speed: 2.2ms preprocess, 19.9ms inference, 5.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 17 cars, 19.4ms
+Speed: 2.1ms preprocess, 19.4ms inference, 10.0ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 19 cars, 20.3ms
+Speed: 2.1ms preprocess, 20.3ms inference, 11.0ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 21 cars, 20.9ms
+Speed: 2.2ms preprocess, 20.9ms inference, 10.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 19 cars, 21.3ms
+Speed: 2.1ms preprocess, 21.3ms inference, 10.0ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 19 cars, 21.2ms
+Speed: 2.2ms preprocess, 21.2ms inference, 5.2ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 16 cars, 21.3ms
+Speed: 2.2ms preprocess, 21.3ms inference, 5.2ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 18 cars, 19.6ms
+Speed: 2.3ms preprocess, 19.6ms inference, 10.6ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 18 cars, 20.2ms
+Speed: 2.2ms preprocess, 20.2ms inference, 5.1ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 18 cars, 19.1ms
+Speed: 2.3ms preprocess, 19.1ms inference, 11.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 16 cars, 20.3ms
+Speed: 2.3ms preprocess, 20.3ms inference, 10.6ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 18 cars, 20.9ms
+Speed: 2.1ms preprocess, 20.9ms inference, 5.0ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 17 cars, 19.3ms
+Speed: 2.2ms preprocess, 19.3ms inference, 10.1ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 21 cars, 21.2ms
+Speed: 2.2ms preprocess, 21.2ms inference, 4.9ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 16 cars, 20.4ms
+Speed: 2.2ms preprocess, 20.4ms inference, 4.8ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 17 cars, 15.1ms
+Speed: 2.3ms preprocess, 15.1ms inference, 9.8ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 18 cars, 18.8ms
+Speed: 2.2ms preprocess, 18.8ms inference, 10.1ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 19 cars, 20.6ms
+Speed: 2.2ms preprocess, 20.6ms inference, 9.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 18 cars, 22.0ms
+Speed: 2.1ms preprocess, 22.0ms inference, 13.7ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 17 cars, 21.2ms
+Speed: 2.2ms preprocess, 21.2ms inference, 11.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 17 cars, 19.7ms
+Speed: 2.2ms preprocess, 19.7ms inference, 5.1ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 21 cars, 20.9ms
+Speed: 2.1ms preprocess, 20.9ms inference, 5.2ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 18 cars, 20.3ms
+Speed: 2.1ms preprocess, 20.3ms inference, 5.0ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 18 cars, 19.8ms
+Speed: 2.3ms preprocess, 19.8ms inference, 5.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 20 cars, 19.6ms
+Speed: 2.2ms preprocess, 19.6ms inference, 11.1ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 17 cars, 20.5ms
+Speed: 2.2ms preprocess, 20.5ms inference, 5.2ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 19 cars, 19.2ms
+Speed: 2.2ms preprocess, 19.2ms inference, 10.7ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 19 cars, 20.4ms
+Speed: 2.1ms preprocess, 20.4ms inference, 5.1ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 17 cars, 22.0ms
+Speed: 2.2ms preprocess, 22.0ms inference, 11.2ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 17 cars, 20.4ms
+Speed: 2.1ms preprocess, 20.4ms inference, 10.2ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 16 cars, 21.0ms
+Speed: 2.3ms preprocess, 21.0ms inference, 9.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 16 cars, 21.0ms
+Speed: 2.2ms preprocess, 21.0ms inference, 11.2ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 17 cars, 21.1ms
+Speed: 2.2ms preprocess, 21.1ms inference, 10.2ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 17 cars, 21.0ms
+Speed: 2.2ms preprocess, 21.0ms inference, 5.1ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 17 cars, 22.5ms
+Speed: 2.1ms preprocess, 22.5ms inference, 11.0ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 16 cars, 19.2ms
+Speed: 2.3ms preprocess, 19.2ms inference, 9.7ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 16 cars, 19.7ms
+Speed: 2.2ms preprocess, 19.7ms inference, 10.7ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 20 cars, 20.6ms
+Speed: 2.1ms preprocess, 20.6ms inference, 6.0ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 18 cars, 22.0ms
+Speed: 2.2ms preprocess, 22.0ms inference, 5.2ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 19 cars, 18.8ms
+Speed: 2.3ms preprocess, 18.8ms inference, 10.6ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 17 cars, 21.5ms
+Speed: 2.2ms preprocess, 21.5ms inference, 11.8ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 19 cars, 21.4ms
+Speed: 2.2ms preprocess, 21.4ms inference, 10.6ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 19 cars, 21.5ms
+Speed: 2.2ms preprocess, 21.5ms inference, 5.2ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 18 cars, 20.9ms
+Speed: 2.1ms preprocess, 20.9ms inference, 10.6ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 20 cars, 21.0ms
+Speed: 2.2ms preprocess, 21.0ms inference, 5.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 17 cars, 19.6ms
+Speed: 2.2ms preprocess, 19.6ms inference, 11.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 16 cars, 20.3ms
+Speed: 2.3ms preprocess, 20.3ms inference, 5.1ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 17 cars, 22.1ms
+Speed: 2.1ms preprocess, 22.1ms inference, 5.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 20 cars, 21.1ms
+Speed: 2.2ms preprocess, 21.1ms inference, 5.0ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 19 cars, 19.3ms
+Speed: 2.3ms preprocess, 19.3ms inference, 10.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 18 cars, 1 van, 20.1ms
+Speed: 2.3ms preprocess, 20.1ms inference, 4.9ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 20 cars, 19.9ms
+Speed: 2.2ms preprocess, 19.9ms inference, 11.9ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 19 cars, 2 vans, 19.3ms
+Speed: 2.2ms preprocess, 19.3ms inference, 10.9ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 20 cars, 1 van, 20.8ms
+Speed: 2.3ms preprocess, 20.8ms inference, 10.0ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 20 cars, 1 van, 21.3ms
+Speed: 2.2ms preprocess, 21.3ms inference, 10.9ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 16 cars, 1 van, 21.3ms
+Speed: 2.1ms preprocess, 21.3ms inference, 10.9ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 17 cars, 1 van, 20.6ms
+Speed: 2.1ms preprocess, 20.6ms inference, 5.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 18 cars, 1 van, 22.6ms
+Speed: 2.1ms preprocess, 22.6ms inference, 10.0ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 17 cars, 1 van, 14.7ms
+Speed: 2.3ms preprocess, 14.7ms inference, 4.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 17 cars, 1 van, 15.3ms
+Speed: 2.3ms preprocess, 15.3ms inference, 14.0ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 16 cars, 1 van, 19.3ms
+Speed: 2.2ms preprocess, 19.3ms inference, 11.0ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 16 cars, 1 van, 19.8ms
+Speed: 2.2ms preprocess, 19.8ms inference, 10.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 17 cars, 1 van, 20.6ms
+Speed: 2.1ms preprocess, 20.6ms inference, 5.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 18 cars, 1 van, 23.0ms
+Speed: 2.1ms preprocess, 23.0ms inference, 10.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 17 cars, 1 van, 21.3ms
+Speed: 2.1ms preprocess, 21.3ms inference, 10.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 17 cars, 1 van, 22.7ms
+Speed: 2.1ms preprocess, 22.7ms inference, 11.7ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 18 cars, 1 van, 21.5ms
+Speed: 2.2ms preprocess, 21.5ms inference, 10.6ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 18 cars, 1 van, 20.7ms
+Speed: 2.2ms preprocess, 20.7ms inference, 10.8ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 19 cars, 1 van, 20.9ms
+Speed: 2.1ms preprocess, 20.9ms inference, 10.1ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 18 cars, 1 van, 21.3ms
+Speed: 2.1ms preprocess, 21.3ms inference, 4.8ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 18 cars, 1 van, 21.1ms
+Speed: 2.3ms preprocess, 21.1ms inference, 5.1ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 18 cars, 1 van, 20.1ms
+Speed: 2.1ms preprocess, 20.1ms inference, 10.1ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 18 cars, 1 van, 20.2ms
+Speed: 2.2ms preprocess, 20.2ms inference, 10.6ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 16 cars, 1 van, 19.8ms
+Speed: 2.2ms preprocess, 19.8ms inference, 11.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 13 cars, 1 van, 19.8ms
+Speed: 2.1ms preprocess, 19.8ms inference, 11.0ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 14 cars, 1 van, 20.1ms
+Speed: 2.2ms preprocess, 20.1ms inference, 10.1ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 16 cars, 1 van, 20.5ms
+Speed: 2.2ms preprocess, 20.5ms inference, 11.0ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 15 cars, 1 van, 20.4ms
+Speed: 2.2ms preprocess, 20.4ms inference, 5.1ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 16 cars, 1 van, 22.9ms
+Speed: 2.3ms preprocess, 22.9ms inference, 17.8ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 15 cars, 1 van, 21.5ms
+Speed: 2.1ms preprocess, 21.5ms inference, 9.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 12 cars, 1 van, 21.6ms
+Speed: 2.2ms preprocess, 21.6ms inference, 5.1ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 14 cars, 1 van, 19.7ms
+Speed: 2.1ms preprocess, 19.7ms inference, 5.1ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 13 cars, 1 van, 21.6ms
+Speed: 2.2ms preprocess, 21.6ms inference, 9.0ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 13 cars, 1 van, 21.6ms
+Speed: 2.2ms preprocess, 21.6ms inference, 4.9ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 14 cars, 1 van, 19.9ms
+Speed: 2.1ms preprocess, 19.9ms inference, 11.1ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 16 cars, 1 van, 21.4ms
+Speed: 2.3ms preprocess, 21.4ms inference, 6.2ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 14 cars, 1 van, 20.8ms
+Speed: 2.1ms preprocess, 20.8ms inference, 10.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 12 cars, 1 van, 21.0ms
+Speed: 2.1ms preprocess, 21.0ms inference, 10.8ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 18 cars, 1 van, 21.1ms
+Speed: 2.2ms preprocess, 21.1ms inference, 10.8ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 16 cars, 1 van, 20.2ms
+Speed: 2.2ms preprocess, 20.2ms inference, 10.2ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 16 cars, 1 van, 20.6ms
+Speed: 2.1ms preprocess, 20.6ms inference, 4.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 15 cars, 1 van, 20.0ms
+Speed: 2.2ms preprocess, 20.0ms inference, 9.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 17 cars, 1 van, 20.5ms
+Speed: 2.0ms preprocess, 20.5ms inference, 10.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 17 cars, 1 van, 19.6ms
+Speed: 2.0ms preprocess, 19.6ms inference, 11.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 18 cars, 1 van, 19.7ms
+Speed: 2.1ms preprocess, 19.7ms inference, 11.8ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 17 cars, 2 vans, 14.6ms
+Speed: 2.3ms preprocess, 14.6ms inference, 10.0ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 16 cars, 1 van, 15.1ms
+Speed: 2.2ms preprocess, 15.1ms inference, 13.2ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 16 cars, 1 van, 15.0ms
+Speed: 2.3ms preprocess, 15.0ms inference, 9.0ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 19 cars, 1 van, 22.3ms
+Speed: 2.2ms preprocess, 22.3ms inference, 10.6ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 20 cars, 1 van, 21.0ms
+Speed: 2.2ms preprocess, 21.0ms inference, 9.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 19 cars, 1 van, 20.4ms
+Speed: 2.0ms preprocess, 20.4ms inference, 12.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 20 cars, 1 van, 20.1ms
+Speed: 2.0ms preprocess, 20.1ms inference, 10.8ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 22 cars, 1 van, 18.4ms
+Speed: 2.2ms preprocess, 18.4ms inference, 15.6ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 21 cars, 1 van, 20.9ms
+Speed: 2.2ms preprocess, 20.9ms inference, 10.6ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 22 cars, 1 van, 19.4ms
+Speed: 2.1ms preprocess, 19.4ms inference, 10.8ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 21 cars, 1 van, 21.1ms
+Speed: 2.3ms preprocess, 21.1ms inference, 5.2ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 22 cars, 1 van, 20.4ms
+Speed: 2.2ms preprocess, 20.4ms inference, 9.7ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 21 cars, 1 van, 21.0ms
+Speed: 2.1ms preprocess, 21.0ms inference, 9.6ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 23 cars, 1 van, 21.4ms
+Speed: 2.2ms preprocess, 21.4ms inference, 11.0ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 22 cars, 1 van, 21.3ms
+Speed: 2.2ms preprocess, 21.3ms inference, 11.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 20 cars, 1 van, 21.7ms
+Speed: 2.2ms preprocess, 21.7ms inference, 10.6ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 20 cars, 1 van, 15.2ms
+Speed: 2.5ms preprocess, 15.2ms inference, 10.9ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 20 cars, 1 van, 21.1ms
+Speed: 2.3ms preprocess, 21.1ms inference, 10.0ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 19 cars, 1 van, 19.5ms
+Speed: 2.1ms preprocess, 19.5ms inference, 11.1ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 20 cars, 1 van, 21.1ms
+Speed: 2.3ms preprocess, 21.1ms inference, 5.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 18 cars, 1 van, 20.3ms
+Speed: 2.2ms preprocess, 20.3ms inference, 5.7ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 19 cars, 1 van, 22.6ms
+Speed: 2.1ms preprocess, 22.6ms inference, 10.1ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 20 cars, 1 van, 19.5ms
+Speed: 2.4ms preprocess, 19.5ms inference, 11.8ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 21 cars, 1 van, 21.5ms
+Speed: 2.2ms preprocess, 21.5ms inference, 5.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 18 cars, 1 van, 21.1ms
+Speed: 2.1ms preprocess, 21.1ms inference, 10.1ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 17 cars, 1 van, 21.4ms
+Speed: 2.2ms preprocess, 21.4ms inference, 10.6ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 18 cars, 1 van, 21.6ms
+Speed: 2.2ms preprocess, 21.6ms inference, 10.8ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 22 cars, 1 van, 21.8ms
+Speed: 2.2ms preprocess, 21.8ms inference, 5.1ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 19 cars, 1 van, 21.5ms
+Speed: 2.1ms preprocess, 21.5ms inference, 9.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 18 cars, 1 van, 21.7ms
+Speed: 2.1ms preprocess, 21.7ms inference, 10.6ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 20 cars, 1 van, 22.0ms
+Speed: 2.2ms preprocess, 22.0ms inference, 5.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 19 cars, 1 van, 20.4ms
+Speed: 2.1ms preprocess, 20.4ms inference, 10.1ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 18 cars, 1 van, 20.1ms
+Speed: 2.2ms preprocess, 20.1ms inference, 9.7ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 20 cars, 1 van, 20.7ms
+Speed: 2.3ms preprocess, 20.7ms inference, 9.7ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 22 cars, 1 van, 20.1ms
+Speed: 2.1ms preprocess, 20.1ms inference, 5.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 19 cars, 1 van, 23.0ms
+Speed: 2.1ms preprocess, 23.0ms inference, 10.9ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 19 cars, 1 van, 21.2ms
+Speed: 2.1ms preprocess, 21.2ms inference, 10.7ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 18 cars, 1 van, 20.5ms
+Speed: 2.2ms preprocess, 20.5ms inference, 10.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 18 cars, 1 van, 21.6ms
+Speed: 2.2ms preprocess, 21.6ms inference, 5.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 19 cars, 1 van, 19.2ms
+Speed: 2.2ms preprocess, 19.2ms inference, 5.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 18 cars, 1 van, 21.0ms
+Speed: 2.2ms preprocess, 21.0ms inference, 11.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 17 cars, 1 van, 20.8ms
+Speed: 2.3ms preprocess, 20.8ms inference, 9.9ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 17 cars, 1 van, 21.4ms
+Speed: 2.2ms preprocess, 21.4ms inference, 10.0ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 18 cars, 1 van, 21.3ms
+Speed: 2.2ms preprocess, 21.3ms inference, 5.0ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 20 cars, 1 van, 19.8ms
+Speed: 2.4ms preprocess, 19.8ms inference, 9.9ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 16 cars, 1 van, 17.9ms
+Speed: 2.1ms preprocess, 17.9ms inference, 14.6ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 18 cars, 1 van, 19.5ms
+Speed: 2.2ms preprocess, 19.5ms inference, 5.7ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 19 cars, 1 van, 21.7ms
+Speed: 2.1ms preprocess, 21.7ms inference, 10.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 19 cars, 1 van, 19.8ms
+Speed: 2.1ms preprocess, 19.8ms inference, 10.7ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 15 cars, 20.3ms
+Speed: 2.3ms preprocess, 20.3ms inference, 5.8ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 18 cars, 1 van, 21.4ms
+Speed: 2.3ms preprocess, 21.4ms inference, 9.1ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 19 cars, 1 van, 15.5ms
+Speed: 2.2ms preprocess, 15.5ms inference, 12.9ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 20 cars, 1 van, 20.7ms
+Speed: 2.2ms preprocess, 20.7ms inference, 9.4ms postprocess per image at shape (1, 3, 384, 640)
+(school) (base) shaki@MacBookPro 2025-YOLO-Vehicle-Tracking % 
