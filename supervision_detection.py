@@ -90,7 +90,7 @@ if __name__ == '__main__':
                 labels.append(f'#{tracker_id} {int(speed)} mph')
         
         annotated_frame = frame.copy()
-        #annotated_frame = sv.draw_polygon(annotated_frame, polygon=SOURCE)
+        annotated_frame = sv.draw_polygon(annotated_frame, polygon=SOURCE)
         #annotated_frame = trace_annotator.annotate(
             #scene=annotated_frame, detections=detections)
         annotated_frame = label_annotator.annotate(
